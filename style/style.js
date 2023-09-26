@@ -39,7 +39,18 @@ fontSize: 16,
     color: '#98d438',
     fontSize: 18,
   },
-  
+  rulesText:{
+    color: '#ffffff',
+  },
+  goodLuckContainer:{
+    backgroundColor: '#58ef58'
+  },
+
+  goodLuckText:{
+    color: '#111111',
+    fontSize: 18,
+  },
+
   author: {
     color: '#fbfdf9',
     fontWeight: 'bold',
